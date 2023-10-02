@@ -1,0 +1,27 @@
+html, body, ul{
+    margin: 0;
+    padding: 0;
+    scroll-behavior: smooth;
+    background-color: #323232;
+    /*font-family: 'Open Sans', sans-serif; */
+}
+
+#login{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    padding: 0 2 rem;
+    gap: 1rem;
+}
+
+#login .actions{
+    text-align: center;
+    margin-top: .5rem;
+}
+
+.github-image{
+    width: 50px;
+
+}
