@@ -23,5 +23,21 @@ html, body, ul{
 
 .github-image{
     width: 50px;
+}
 
+#email {
+    width: 12rem;
+    outline: none;
+    padding: 0.5rem 1rem;
+    border-radius: 6px;
+    background-color: transparent;
+    color: #fff;
+    border: 1px solid #fff;
+}
+
+#button-submit {
+    padding: 0.2rem 3rem;
+    background-color: #00ffff;
+    color: #000;
+    border-radius: 6px;
 }
